@@ -1,0 +1,30 @@
+{
+    "classic": [
+        "pr1.png",
+        "pr2.png",
+        "pr4.png",
+        "pr6.png",
+        "pr5.png",
+        "pr7.png",
+        "pr8.png",
+        "pr12.png",
+        "pr18.png",
+        "pr19.png",
+        "pr20.png",
+        "pr21.png",
+        "pr22.png",
+        "pr23.png",
+        "pr24.png",
+        "pr3.png",
+        "pr26.png"
+    ],
+    "colored": [
+        "pr9.png",
+        "pr10.png",
+        "pr13.png",
+        "pr14.png",
+        "pr15.png",
+        "pr16.png",
+        "pr11.png"
+    ]
+}
